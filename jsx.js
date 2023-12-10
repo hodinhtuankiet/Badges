@@ -4,7 +4,8 @@ function Button({ title }) {
       function App() {
         return (
           <div>
-            <Button title="Xin chào" />
+            <Button title="" />
+            <Button title="ádsad" />
           </div>
         );
       }
